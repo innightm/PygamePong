@@ -1,0 +1,7 @@
+Чтобы написать игру, с использованием библиотеки PyGame для начала, нужно:
+- Открыть строку администратора, перейти в директорию где создаем игру (папку)
+-Перейти на сайт https://pip.pypa.io/en/stable/installing/#do-i-need-to-install-pip
+-Скопировать "код" curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py и в ставить в консоль
+-Потом python get-pip.py, вставить в строку администратора и устанавлием
+-Переходим на сайт https://www.pygame.org/wiki/GettingStarted
+-Копируем код py -m pip install -U pygame --user, и вставляем его в консольную строку.
